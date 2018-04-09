@@ -7,37 +7,37 @@ Uses a *super mod* <kbd>ctrl + alt + cmd</kbd> that I have bound to <kbd>caps lo
 
 ### Window Sizing Shortcuts
 
-**Left Half: **
+**Left Half:**
 <kbd>j</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
 
-**Right Half: **
+**Right Half:**
 <kbd>k</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
 
-**Top Right Corner: **
+**Top Right Corner:**
 <kbd>w</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
 
-**Bottom Right Corner: **
+**Bottom Right Corner:**
 <kbd>s</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
 
-**Top Right Corner: **
+**Top Right Corner:**
 <kbd>q</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
 
-**Bottom Left Corner: **
+**Bottom Left Corner:**
 <kbd>a</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
 
-**Maximize (not fullscreen): **
+**Maximize (not fullscreen):**
 <kbd>m</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
 
 ### Focus Shortcuts
 
-**Focus North Neighbor: **
+**Focus North Neighbor:**
 <kbd>w</kbd> + <kbd>[ctrl + alt + cmd]</kbd> + <kbd>shift</kbd>
 
-**Focus South Neighbor: **
+**Focus South Neighbor:**
 <kbd>s</kbd> + <kbd>[ctrl + alt + cmd]</kbd> + <kbd>shift</kbd>
 
-**Focus East Neighbor: **
+**Focus East Neighbor:**
 <kbd>d</kbd> + <kbd>[ctrl + alt + cmd]</kbd> + <kbd>shift</kbd>
 
-**Focus West Neighbor: **
+**Focus West Neighbor:**
 <kbd>a</kbd> + <kbd>[ctrl + alt + cmd]</kbd> + <kbd>shift</kbd>
