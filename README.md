@@ -1,12 +1,43 @@
 # Phoenix Padding
 A simple phoenix setup that provides padding between the windows.
 
-Uses a *super-mod* <kbd>ctrl + alt + cmd</kbd> that I have bound to <kbd>caps lock</kbd> thanks to [fabiospampinato](https://github.com/fabiospampinato/phoenix) phoenix setup. 
+![example](example.png)
 
-### Shortcuts
+Uses a *super mod* <kbd>ctrl + alt + cmd</kbd> that I have bound to <kbd>caps lock</kbd> thanks to [fabiospampinato](https://github.com/fabiospampinato/phoenix) phoenix setup. 
 
-**Left Half**
-<kbd>j + [ctrl + alt + cmd]</kbd>
+### Window Sizing Shortcuts
 
-**Right Half**
-<kbd>k + [ctrl + alt + cmd]</kbd>
+**Left Half: **
+<kbd>j</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
+
+**Right Half: **
+<kbd>k</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
+
+**Top Right Corner: **
+<kbd>w</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
+
+**Bottom Right Corner: **
+<kbd>s</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
+
+**Top Right Corner: **
+<kbd>q</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
+
+**Bottom Left Corner: **
+<kbd>a</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
+
+**Maximize (not fullscreen): **
+<kbd>m</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
+
+### Focus Shortcuts
+
+**Focus North Neighbor: **
+<kbd>w</kbd> + <kbd>[ctrl + alt + cmd]</kbd> + <kbd>shift</kbd>
+
+**Focus South Neighbor: **
+<kbd>s</kbd> + <kbd>[ctrl + alt + cmd]</kbd> + <kbd>shift</kbd>
+
+**Focus East Neighbor: **
+<kbd>d</kbd> + <kbd>[ctrl + alt + cmd]</kbd> + <kbd>shift</kbd>
+
+**Focus West Neighbor: **
+<kbd>a</kbd> + <kbd>[ctrl + alt + cmd]</kbd> + <kbd>shift</kbd>
