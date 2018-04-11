@@ -24,3 +24,7 @@ let info = new Key('i', MOD, () => {
         }
     }
 });
+
+let verbose = new Key('v', MOD, () => {
+    VERBOSE = !VERBOSE;
+})

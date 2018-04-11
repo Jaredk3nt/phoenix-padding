@@ -1,6 +1,6 @@
 const MOD = ['ctrl', 'alt', 'cmd'];
 const MOD_S = [...MOD, 'shift'];
-const VERBOSE = false;
+let VERBOSE = false;
 const HALF_CORRECTION = 6; // Fix padding issues for half screen windows
 
 var scr = Screen.main().flippedVisibleFrame();
