@@ -1,5 +1,5 @@
 # Phoenix Padding
-A simple phoenix setup that provides padding between the windows.
+A simple [phoenix](https://github.com/kasper/phoenix) setup that provides padding between the windows.
 
 ![example](example.png)
 
