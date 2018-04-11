@@ -41,3 +41,8 @@ Uses a *super mod* <kbd>ctrl + alt + cmd</kbd> that I have bound to <kbd>caps lo
 
 **Focus West Neighbor:**
 <kbd>a</kbd> + <kbd>[ctrl + alt + cmd]</kbd> + <kbd>shift</kbd>
+
+### Bonus Shortcuts
+
+**Show Visible Window Info:**
+<kbd>i</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
