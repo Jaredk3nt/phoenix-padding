@@ -58,7 +58,7 @@ var maximizeWindow = new Key('m', MOD, () => {
 // Minimize window
 let minimizeWindow = new Key('n', MOD, () => {
     if ( VERBOSE ) { movementModal( 'Minimizing', true ); }
-    Window.focused().minimise();    
+    Window.focused().minimize();    
 });
 
 let fullscreenWindow = new Key('f', MOD, () => {
