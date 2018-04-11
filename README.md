@@ -30,6 +30,10 @@ Uses a *super mod* <kbd>ctrl + alt + cmd</kbd> that I have bound to <kbd>caps lo
 
 ### Focus Shortcuts
 
+**Gain Focus**
+Focus the most recent window if no windows are focused, shows error modal if no windows avaliable to focus
+<kbd>l</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
+
 **Focus North Neighbor:**
 <kbd>w</kbd> + <kbd>[ctrl + alt + cmd]</kbd> + <kbd>shift</kbd>
 
@@ -45,4 +49,5 @@ Uses a *super mod* <kbd>ctrl + alt + cmd</kbd> that I have bound to <kbd>caps lo
 ### Bonus Shortcuts
 
 **Show Visible Window Info:**
+Show icons and names of all visible windows at the center of the window
 <kbd>i</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
