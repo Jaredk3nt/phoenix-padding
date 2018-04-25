@@ -15,6 +15,8 @@ var paddingMiddle = 20;
 var halfWidth = ((scr.width - paddingLeft) - paddingRight) / 2;
 var halfHeight = (((scr.height - paddingTop) - paddingBottom) / 2) + HALF_CORRECTION;
 
+var thirdWidth = ((scr.width - paddingLeft) - paddingRight) / 3;
+
 var windowLocations = {
     full: {
         y: paddingTop,
@@ -58,5 +60,18 @@ var windowLocations = {
         x: paddingLeft,
         width: halfWidth - paddingCenter,
         height: halfHeight
+    },
+    // Extra sizes
+    rightTwoThirds: {
+        y: paddingTop,
+        x: (thirdWidth + paddingLeft) + paddingCenter,
+        width: thirdWidth * 2,
+        height: scr.height - paddingBottom
+    },
+    leftThird: {
+        y: paddingTop,
+        x: paddingLeft,
+        width: thirdWidth - paddingCenter,
+        height: scr.height - paddingBottom
     }
 }
