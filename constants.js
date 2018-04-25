@@ -68,10 +68,22 @@ var windowLocations = {
         width: thirdWidth * 2,
         height: scr.height - paddingBottom
     },
+    leftTwoThirds: {
+        y: paddingTop,
+        x: paddingLeft,
+        width: (thirdWidth * 2) - paddingCenter,
+        height: scr.height - paddingBottom
+    },
     leftThird: {
         y: paddingTop,
         x: paddingLeft,
         width: thirdWidth - paddingCenter,
+        height: scr.height - paddingBottom
+    },
+    rightThird: {
+        y: paddingTop,
+        x: ((thirdWidth * 2) + paddingLeft) + paddingCenter,
+        width: thirdWidth,
         height: scr.height - paddingBottom
     }
 }

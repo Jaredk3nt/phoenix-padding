@@ -7,11 +7,23 @@ Uses a *super mod* <kbd>ctrl + alt + cmd</kbd> that I have bound to <kbd>caps lo
 
 ### Window Sizing Shortcuts
 
+**Left Third:**
+<kbd>h</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
+
+**Right Third:**
+<kbd>o</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
+
 **Left Half:**
 <kbd>j</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
 
 **Right Half:**
 <kbd>k</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
+
+**Left Two Thirds:**
+<kbd>y</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
+
+**Right Two Thirds:**
+<kbd>l</kbd> + <kbd>[ctrl + alt + cmd]</kbd>
 
 **Top Right Corner:**
 <kbd>w</kbd> + <kbd>[ctrl + alt + cmd]</kbd>

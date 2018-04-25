@@ -28,14 +28,24 @@ var rightHalf = new Key('k', MOD, () => {
     Window.focused().setFrame(windowLocations.right);
 });
 
-var rightTwoThirds = new Key('h', MOD, () => {
+var rightTwoThirds = new Key('l', MOD, () => {
     if (VERBOSE) { movementModal('right two-thirds'); }
     Window.focused().setFrame(windowLocations.rightTwoThirds);
 });
 
-var leftThird = new Key('g', MOD, () => {
+var leftTwoThirds = new Key('y', MOD, () => {
+    if (VERBOSE) { movementModal('left two-thirds'); }
+    Window.focused().setFrame(windowLocations.leftTwoThirds);
+});
+
+var leftThird = new Key('h', MOD, () => {
     if (VERBOSE) { movementModal('left third'); }
     Window.focused().setFrame(windowLocations.leftThird);
+});
+
+var rightThird = new Key('o', MOD, () => {
+    if (VERBOSE) { movementModal('right third'); }
+    Window.focused().setFrame(windowLocations.rightThird);
 });
 
 // Move focused window to corners
